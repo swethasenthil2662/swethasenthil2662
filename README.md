@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 there! i'm swetha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://i.pinimg.com/originals/e7/6d/a4/e76da432ac9789ef342cd989f680ec94.gif"/> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swethasenthil2662" alt="swethasenthil2662" /></a> </p>
 
